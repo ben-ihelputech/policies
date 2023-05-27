@@ -16,7 +16,14 @@
       - [Warranty Claim Process](#warranty-claim-process)
       - [Refunds](#refunds)
       - [Partial Refunds](#partial-refunds)
-    - [No Fix, No Fee Policy](#no-fix-no-fee-policy)
+    - [Diagnostic Policy](#diagnostic-policy)
+      - [1. Free Diagnostic Services](#1-free-diagnostic-services)
+      - [2. Diagnostic Fee](#2-diagnostic-fee)
+      - [3. Payment of Diagnostic Fee](#3-payment-of-diagnostic-fee)
+      - [4. Diagnostic Fee \& Repair Costs](#4-diagnostic-fee--repair-costs)
+      - [5. Non-Repairable or Unfixed Devices](#5-non-repairable-or-unfixed-devices)
+      - [6. Communication \& Consent](#6-communication--consent)
+      - [7. Queries](#7-queries)
     - [Customer Property](#customer-property)
     - [Missed Payments, Overdue Invoices, And Abandoned Device Policy](#missed-payments-overdue-invoices-and-abandoned-device-policy)
     - [Estimate Policy](#estimate-policy)
@@ -97,13 +104,39 @@ Refunds will not be issued for devices that are in working or improved condition
 
 Devices with multiple, unrelated problems to the initial repair may not be eligible for a full refund and may be subject to a partial refund, no refund, and/or additional terms at the discretion of Meinhart Solutions LLC. The determination of a partial refund will be based on the extent of the unrelated issues and the overall impact on the device's functionality.
 
-### No Fix, No Fee Policy
+### Diagnostic Policy
 
-Devices that are deemed unfixable by a technician may be returned to the customer at no cost. Customers may cancel the repair at any point and ask for their device back at no cost. However, customers may be subject to a fee if the customer in question wants their device reassembled with the originally installed parts. Any parts that are under the ownership of Meinhart Solutions LLC (in which payment has not been received) and have been installed in or on a customer’s device will be reclaimed before returning the device. Any devices or customer owned parts returned to the customer under this policy are not guaranteed to be in working order and may be in significantly worse condition than when the device or part was presented to Meinhart Solutions LLC for repair. Customers will not be compensated for any damages under the policy.
+This policy outlines our terms of service related to diagnostic fees for computer and phone repairs. We want to ensure transparency and fairness with our pricing structures, so we ask all customers to please read this policy before booking a repair service.
 
-Business entities may be subject to a bench fee for estimates at the technician's discretion. This is mainly to prevent abuse of our policy.
+#### 1. Free Diagnostic Services
 
-The no fix, no fee policy no longer applies once payment has been received for a repair. (Please see Warranty & Refund Policy.)
+Our skilled technicians aim to diagnose your device's issue as quickly as possible. We offer a free diagnostic service if the issue can be identified within 15 minutes of inspection.
+
+#### 2. Diagnostic Fee
+
+In some cases, determining the root cause of the issue may require more than 15 minutes. If we anticipate this will be the case, a flat diagnostic fee will apply. The amount of the diagnostic fee will be communicated before we proceed with the detailed diagnosis, and will require your approval.
+
+#### 3. Payment of Diagnostic Fee
+
+The diagnostic fee is required to be paid as an upfront deposit before we proceed with the extended diagnostic process. This fee reflects the time and expertise required by our technicians to diagnose more complex issues.
+
+#### 4. Diagnostic Fee & Repair Costs
+
+If after diagnosis, you decide to proceed with the recommended repairs, the diagnostic fee already paid will be deducted from the total repair costs. Essentially, the diagnostic fee acts as a deposit towards the repair.
+
+#### 5. Non-Repairable or Unfixed Devices
+
+If after a detailed diagnosis, we find that your device cannot be repaired or if you choose not to proceed with the recommended repairs, the diagnostic fee will not be refunded. This is to cover the time and resources utilized by our technicians during the diagnostic process.
+
+#### 6. Communication & Consent
+
+Before any detailed diagnostic process that may require a fee, our team will inform you of the estimated diagnostic time and the associated costs. We will only proceed with the extended diagnostic service upon your explicit consent.
+
+#### 7. Queries
+
+Should you have any questions or concerns regarding this policy, please do not hesitate to contact our customer service team. We are here to assist you and ensure your experience with Meinhart Solutions LLC is satisfactory.
+
+By requesting our services, you agree to this Repair Diagnostic Fee Policy.
 
 ### Customer Property
 
@@ -191,6 +224,6 @@ The customer will be presented with three options in the event irreplaceable har
 
 1. The customer can choose to continue the repair at a significantly discounted price with the expectation that Touch ID / Face ID will not work when the repair is complete.
 2. The customer can opt to go with a whole-unit replacement with the same model year or newer priced at fair market value. A generous offer to purchase the broken device will be made as means of compensation for the inconvenience.
-3. The customer may enforce our “No Fix, No Fee” policy and have the repair returned to them as is at no cost. Repairs under this clause are still subject to our “Warranty & Refund Policy”.
+3. The customer may opt to cancel the repair at no cost. Repairs under this clause are still subject to our “Warranty & Refund Policy”.
 
 Devices with prior repair attempts will not be eligible for discounts or whole-unit replacements.
